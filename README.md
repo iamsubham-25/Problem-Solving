@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/iamsubham-25/Problem-Solving/tree/master/0290-word-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
