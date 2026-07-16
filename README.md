@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Array
 |  |
 | ------- |
+| [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
+## Hash Table
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
