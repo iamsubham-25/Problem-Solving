@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
+| [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
