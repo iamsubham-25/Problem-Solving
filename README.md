@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/iamsubham-25/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
