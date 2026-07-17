@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/iamsubham-25/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/iamsubham-25/Problem-Solving/tree/master/0292-nim-game) |
+| [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
 ## Brainteaser
 |  |
 | ------- |
@@ -78,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
 <!---LeetCode Topics End-->
