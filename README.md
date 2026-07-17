@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
+| [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
@@ -87,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
