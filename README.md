@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0172-factorial-trailing-zeroes](https://github.com/iamsubham-25/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/iamsubham-25/Problem-Solving/tree/master/0292-nim-game) |
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Brainteaser
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
