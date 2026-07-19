@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/iamsubham-25/Problem-Solving/tree/master/0343-integer-break) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
 ## Queue
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0172-factorial-trailing-zeroes](https://github.com/iamsubham-25/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/iamsubham-25/Problem-Solving/tree/master/0292-nim-game) |
+| [0343-integer-break](https://github.com/iamsubham-25/Problem-Solving/tree/master/0343-integer-break) |
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Brainteaser
