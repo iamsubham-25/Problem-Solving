@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0120-triangle](https://github.com/iamsubham-25/Problem-Solving/tree/master/0120-triangle) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsubham-25/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/iamsubham-25/Problem-Solving/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
 ## Queue
