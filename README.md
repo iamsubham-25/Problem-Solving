@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/iamsubham-25/Problem-Solving/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamsubham-25/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0290-word-pattern](https://github.com/iamsubham-25/Problem-Solving/tree/master/0290-word-pattern) |
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsubham-25/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
