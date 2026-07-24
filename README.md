@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iamsubham-25/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0290-word-pattern](https://github.com/iamsubham-25/Problem-Solving/tree/master/0290-word-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iamsubham-25/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/iamsubham-25/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/iamsubham-25/Problem-Solving/tree/master/0292-nim-game) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/iamsubham-25/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0290-word-pattern](https://github.com/iamsubham-25/Problem-Solving/tree/master/0290-word-pattern) |
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
