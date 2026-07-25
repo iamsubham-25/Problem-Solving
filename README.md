@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/iamsubham-25/Problem-Solving/tree/master/0120-triangle) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsubham-25/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 ## Sorting
 |  |
