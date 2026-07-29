@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/iamsubham-25/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/iamsubham-25/Problem-Solving/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/iamsubham-25/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/iamsubham-25/Problem-Solving/tree/master/0292-nim-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/iamsubham-25/Problem-Solving/tree/master/0050-powx-n) |
 ## String Matching
 |  |
 | ------- |
