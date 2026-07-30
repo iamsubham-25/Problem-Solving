@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/iamsubham-25/Problem-Solving/tree/master/0120-triangle) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsubham-25/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
 ## Recursion
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsubham-25/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
