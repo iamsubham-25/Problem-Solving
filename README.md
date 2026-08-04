@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1695-maximum-erasure-value](https://github.com/iamsubham-25/Problem-Solving/tree/master/1695-maximum-erasure-value) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
