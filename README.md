@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0486-predict-the-winner](https://github.com/iamsubham-25/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
