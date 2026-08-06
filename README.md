@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0643-maximum-average-subarray-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [1109-corporate-flight-bookings](https://github.com/iamsubham-25/Problem-Solving/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamsubham-25/Problem-Solving/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1109-corporate-flight-bookings](https://github.com/iamsubham-25/Problem-Solving/tree/master/1109-corporate-flight-bookings) |
 <!---LeetCode Topics End-->
