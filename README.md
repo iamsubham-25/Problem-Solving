@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0120-triangle](https://github.com/iamsubham-25/Problem-Solving/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/iamsubham-25/Problem-Solving/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsubham-25/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/iamsubham-25/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/iamsubham-25/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0518-coin-change-ii) |
