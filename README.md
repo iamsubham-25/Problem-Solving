@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0518-coin-change-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsubham-25/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -126,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsubham-25/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsubham-25/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsubham-25/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsubham-25/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
 |  |
 | ------- |
