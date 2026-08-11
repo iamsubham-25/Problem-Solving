@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0012-integer-to-roman](https://github.com/iamsubham-25/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/iamsubham-25/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsubham-25/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/iamsubham-25/Problem-Solving/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0290-word-pattern](https://github.com/iamsubham-25/Problem-Solving/tree/master/0290-word-pattern) |
 | [1328-break-a-palindrome](https://github.com/iamsubham-25/Problem-Solving/tree/master/1328-break-a-palindrome) |
