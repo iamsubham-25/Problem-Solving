@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0090-subsets-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamsubham-25/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0494-target-sum) |
 ## Recursion
