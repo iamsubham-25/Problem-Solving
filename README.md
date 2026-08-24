@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsubham-25/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsubham-25/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/iamsubham-25/Problem-Solving/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -211,4 +213,16 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamsubham-25/Problem-Solving/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsubham-25/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsubham-25/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamsubham-25/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
