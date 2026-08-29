@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/iamsubham-25/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
