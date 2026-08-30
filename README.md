@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1696-jump-game-vi](https://github.com/iamsubham-25/Problem-Solving/tree/master/1696-jump-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/iamsubham-25/Problem-Solving/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/iamsubham-25/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/iamsubham-25/Problem-Solving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/iamsubham-25/Problem-Solving/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/iamsubham-25/Problem-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/iamsubham-25/Problem-Solving/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsubham-25/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
