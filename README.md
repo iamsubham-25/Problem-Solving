@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/iamsubham-25/Problem-Solving/tree/master/1109-corporate-flight-bookings) |
 | [3903-smallest-stable-index-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
