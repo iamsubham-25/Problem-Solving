@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/iamsubham-25/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 | [2187-minimum-time-to-complete-trips](https://github.com/iamsubham-25/Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
