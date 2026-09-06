@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | ------- |
 | [0035-search-insert-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/iamsubham-25/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 | [2187-minimum-time-to-complete-trips](https://github.com/iamsubham-25/Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sorting
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/iamsubham-25/Problem-Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
