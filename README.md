@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [2187-minimum-time-to-complete-trips](https://github.com/iamsubham-25/Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamsubham-25/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/3904-smallest-stable-index-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iamsubham-25/Problem-Solving/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/iamsubham-25/Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamsubham-25/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/iamsubham-25/Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0044-wildcard-matching](https://github.com/iamsubham-25/Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/iamsubham-25/Problem-Solving/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/iamsubham-25/Problem-Solving/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamsubham-25/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamsubham-25/Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
