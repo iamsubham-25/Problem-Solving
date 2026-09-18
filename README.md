@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0279-perfect-squares](https://github.com/iamsubham-25/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/iamsubham-25/Problem-Solving/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/iamsubham-25/Problem-Solving/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/iamsubham-25/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/iamsubham-25/Problem-Solving/tree/master/0486-predict-the-winner) |
 | [0991-broken-calculator](https://github.com/iamsubham-25/Problem-Solving/tree/master/0991-broken-calculator) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iamsubham-25/Problem-Solving/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamsubham-25/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/iamsubham-25/Problem-Solving/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/iamsubham-25/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
 | [2187-minimum-time-to-complete-trips](https://github.com/iamsubham-25/Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sorting
