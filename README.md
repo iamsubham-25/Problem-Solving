@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0518-coin-change-ii](https://github.com/iamsubham-25/Problem-Solving/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/iamsubham-25/Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/iamsubham-25/Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1109-corporate-flight-bookings](https://github.com/iamsubham-25/Problem-Solving/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/iamsubham-25/Problem-Solving/tree/master/1207-unique-number-of-occurrences) |
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 | [0278-first-bad-version](https://github.com/iamsubham-25/Problem-Solving/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/iamsubham-25/Problem-Solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/iamsubham-25/Problem-Solving/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/iamsubham-25/Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2187-minimum-time-to-complete-trips](https://github.com/iamsubham-25/Problem-Solving/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamsubham-25/Problem-Solving/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iamsubham-25/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/iamsubham-25/Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/iamsubham-25/Problem-Solving/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/iamsubham-25/Problem-Solving/tree/master/1833-maximum-ice-cream-bars) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! This repository 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamsubham-25/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/iamsubham-25/Problem-Solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0881-boats-to-save-people](https://github.com/iamsubham-25/Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/iamsubham-25/Problem-Solving/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
